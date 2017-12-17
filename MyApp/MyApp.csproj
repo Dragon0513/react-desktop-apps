@@ -86,11 +86,11 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="npm-shrinkwrap.json" />
     <None Include="Properties\PublishProfiles\PublishToIIS.pubxml">
       <SubType>Designer</SubType>
     </None>
     <Content Include="Web.config" />
-    <Content Include="package-lock.json" />
     <None Include="packages.config" />
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
