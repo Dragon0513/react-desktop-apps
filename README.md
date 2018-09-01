@@ -10,3 +10,6 @@ ASP.NET, Winforms, OSX Cocoa and Console React Desktop Apps Template
 
     $ dotnet-new react-desktop-apps-netfx ProjectName
 
+## Learn more
+
+To learn more about how Webpack is used in this Template see [Tour of Webpack](https://docs.servicestack.net/tour-of-webpack).
