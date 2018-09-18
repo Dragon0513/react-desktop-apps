@@ -9,6 +9,7 @@
     <RootNamespace>MyApp.AppMac</RootNamespace>
     <MonoMacResourcePrefix>Resources</MonoMacResourcePrefix>
     <AssemblyName>MyApp.AppMac</AssemblyName>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>    
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

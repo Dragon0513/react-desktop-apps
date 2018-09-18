@@ -10,6 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MyApp.AppConsole</RootNamespace>
     <AssemblyName>MyApp.AppConsole</AssemblyName>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>    
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
