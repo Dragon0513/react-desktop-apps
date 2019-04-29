@@ -23,7 +23,7 @@ namespace MyApp.AppWinForms
                 UseCamelCase = true,
             });
 
-            Plugins.Add(new TemplatePagesFeature());
+            Plugins.Add(new SharpPagesFeature());
         }
     }
 }

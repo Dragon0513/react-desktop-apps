@@ -27,7 +27,7 @@ namespace MyApp.AppMac
                 UseCamelCase = true,
             });
 
-            Plugins.Add(new TemplatePagesFeature());
+            Plugins.Add(new SharpPagesFeature());
 
             Routes.Add<NativeHostAction>("/nativehost/{Action}");
             ServiceController.RegisterService(typeof(NativeHostService));

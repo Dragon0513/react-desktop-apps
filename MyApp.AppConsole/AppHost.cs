@@ -22,7 +22,7 @@ namespace MyApp.AppConsole
                 UseCamelCase = true,
             });
 
-            Plugins.Add(new TemplatePagesFeature());
+            Plugins.Add(new SharpPagesFeature());
 
             // This route is added using Routes.Add and ServiceController.RegisterService due to
             // using ILMerge limiting our AppHost : base() call to one assembly.

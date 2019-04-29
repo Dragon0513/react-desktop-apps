@@ -29,7 +29,7 @@ namespace MyApp
                 UseCamelCase = true,
             });
 
-            Plugins.Add(new TemplatePagesFeature());
+            Plugins.Add(new SharpPagesFeature());
         }
     }
 }
