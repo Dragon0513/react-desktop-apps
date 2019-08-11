@@ -6,9 +6,9 @@ ASP.NET, Winforms, OSX Cocoa and Console React Desktop Apps Template
 
 > Browse [source code](https://github.com/NetFrameworkTemplates/react-desktop-apps-netfx), view live demo [react-desktop-apps-netfx.web-templates.io](http://react-desktop-apps-netfx.web-templates.io) and install with [dotnet-new](http://docs.servicestack.net/dotnet-new):
 
-    $ npm install -g @servicestack/cli
+    $ dotnet tool install --global web
 
-    $ dotnet-new react-desktop-apps-netfx ProjectName
+    $ web new react-desktop-apps-netfx ProjectName
 
 ## Learn more
 
